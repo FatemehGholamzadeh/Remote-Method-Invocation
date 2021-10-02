@@ -5,9 +5,9 @@ Implement a simple RMI in Java or a similar object-oriented programming language
 
 
 ### The implemented RMI should have the following features:  
-• Obviously should allow calling of remote methods!  
+* Obviously should allow calling of remote methods!  
 
-• To the programmer, the remote method calling should look like a local method call  
+* To the programmer, the remote method calling should look like a local method call  
 
 • You can not use classes in the Java RMI package (only exception to this is the RemoteException!)  
 
