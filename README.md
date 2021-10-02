@@ -22,7 +22,12 @@ https://docs.oracle.com/javase/6/docs/technotes/guides/rmi/hello/hello-world.htm
 * Whatever language you use, no libraries that implement RPC/RMI should be used (e.g. Java RMI, Python PYRO, etc.)  
 
 ## Class Diagram:  
-![image](https://user-images.githubusercontent.com/44861408/135712482-bbf4389e-b374-4ebf-87a6-523a915fac0b.png)
+![image](https://user-images.githubusercontent.com/44861408/135712482-bbf4389e-b374-4ebf-87a6-523a915fac0b.png)  
+
+## Sequence Diagram :  
+sequence diagram of calling withdraw method by client is illustrated in bellow. calling other methods is done the same way.
+![image](https://user-images.githubusercontent.com/44861408/135712505-30af94e1-f061-4622-8d14-b3fc51892f7a.png)
+
 
 
 
